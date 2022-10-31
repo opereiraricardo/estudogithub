@@ -8,3 +8,7 @@ Terceira Alteração.
 Quarta Alteração pelo VSCode.
 
 Alterando no GutHub para pegar no VSCode.
+
+
+Sexta e última alteração após baixar do Git para o VSCode.
+Agora enviando para o Github de volta através do VSCode.
