@@ -4,3 +4,5 @@ Segunda Alteração.
 
 
 Terceira Alteração.
+
+Quarta Alteração pelo VSCode.
