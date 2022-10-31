@@ -6,3 +6,5 @@ Segunda Alteração.
 Terceira Alteração.
 
 Quarta Alteração pelo VSCode.
+
+Alterando no GutHub para pegar no VSCode.
